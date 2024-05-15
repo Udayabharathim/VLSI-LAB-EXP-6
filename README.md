@@ -1,4 +1,4 @@
-# SCHEMATIC AND SIMULATION OF CMOS INVERTER USING CADENCE VIRTUOSO
+![Screenshot 2024-05-07 142449](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/1d7a564c-a259-48e6-96f4-7265ee04dc88)# SCHEMATIC AND SIMULATION OF CMOS INVERTER USING CADENCE VIRTUOSO
 
 ## AIM: 
    To Schematic and Simulate Inverter using CADENCE virtuoso. 
@@ -80,12 +80,19 @@ Setup for D.C analysis<br>
 ![Screenshot 2024-04-27 114912](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/c3546127-c5f4-4802-b709-898757e349c9)
 
 ## NANDGATE
+![WhatsApp Image 2024-05-15 at 3 10 41 PM](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/f54e8aa1-f7c1-498b-9c36-d532819ca0e8)
+![WhatsApp Image 2024-05-15 at 3 10 42 PM](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/c909717f-baca-4f7a-9358-009b6c950e77)
 
 ## OUTPUT
+![Screenshot 2024-05-07 134745](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/9ae8390a-57cf-454a-a78d-cbfd868c8176)
 
 ## NORGATE
+![WhatsApp Image 2024-05-15 at 3 10 40 PM](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/71f05040-35df-405f-bb47-3630a781cedc)
+![WhatsApp Image 2024-05-15 at 3 10 49 PM](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/840cf0b0-3d45-465a-af8c-a56f13c09a25)
 
 ## OUTPUT
+
+![Screenshot 2024-05-07 142449](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/94d85148-2ba5-4722-99bc-af66a2319183)
 
 ## RESULT
 The schematic and simulate inverter using CADENCE is done and  verified successfully.
