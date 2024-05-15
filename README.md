@@ -1,5 +1,3 @@
-![Screenshot 2024-05-07 142449](https://github.com/Udayabharathim/VLSI-LAB-EXP-6/assets/160568654/1d7a564c-a259-48e6-96f4-7265ee04dc88)# SCHEMATIC AND SIMULATION OF CMOS INVERTER USING CADENCE VIRTUOSO
-
 ## AIM: 
    To Schematic and Simulate Inverter using CADENCE virtuoso. 
 ## APPARATUS REQUIRED: 
